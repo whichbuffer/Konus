@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="256dp"
+    android:height="256dp"
+    android:viewportHeight="968"
+    android:viewportWidth="968">
+    <path
+        android:name="Rounded Rectangle 1"
+        android:fillColor="#2ecc71"
+        android:pathData="m25 0h918c13.8 0 25 11.2 25 25v918c0 13.8 -11.2 25 -25 25h-918c-13.8 0 -25 -11.2 -25 -25v-918c0 -13.8 11.2 -25 25 -25z" />
+    <path
+        android:name="হ্যাঁ"
+        android:fillColor="#fff" />
+    <path
+        android:name="Shape 4"
+        android:fillColor="#fff"
+        android:pathData="m140.1 435.5c-5.4 -5.4 -8.1 -13.5 -8.1 -18.9c0 -5.4 2.7 -13.5 8.1 -18.9l37.9 -37.9c10.8 -10.8 27.1 -10.8 37.9 0l2.7 2.7l148.9 159.6c5.4 5.4 13.5 5.4 19 0l362.8 -376.1h2.7c10.8 -10.8 27.1 -10.8 37.9 0l37.9 37.9c10.8 10.8 10.8 27.1 0 37.9l-433.2 449.1c-5.4 5.4 -10.8 8.1 -19 8.1c-8.1 0 -13.5 -2.7 -19 -8.1l-211.2 -227.3l-5.4 -8.1z" />
+</vector>

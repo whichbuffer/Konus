@@ -1,0 +1,4 @@
+#Wed Dec 25 19:40:21 EET 2019
+base.0=C\:\\PROJE\\Java_Proje\\PicTalk\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

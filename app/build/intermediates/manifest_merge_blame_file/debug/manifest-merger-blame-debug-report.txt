@@ -1,0 +1,60 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="arda.lab.CBFA"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->C:\Users\whichbuffer\konus\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="27" />
+9-->C:\Users\whichbuffer\konus\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\whichbuffer\konus\app\src\main\AndroidManifest.xml:5:5-23:19
+12        android:allowBackup="true"
+12-->C:\Users\whichbuffer\konus\app\src\main\AndroidManifest.xml:6:9-35
+13        android:debuggable="true"
+14        android:icon="@drawable/icon"
+14-->C:\Users\whichbuffer\konus\app\src\main\AndroidManifest.xml:7:9-38
+15        android:label="@string/app_name"
+15-->C:\Users\whichbuffer\konus\app\src\main\AndroidManifest.xml:8:9-41
+16        android:supportsRtl="false"
+16-->C:\Users\whichbuffer\konus\app\src\main\AndroidManifest.xml:9:9-36
+17        android:theme="@style/AppTheme" >
+17-->C:\Users\whichbuffer\konus\app\src\main\AndroidManifest.xml:10:9-40
+18        <activity
+18-->C:\Users\whichbuffer\konus\app\src\main\AndroidManifest.xml:11:9-19:20
+19            android:name="arda.lab.CBFA.SplashActivity"
+19-->C:\Users\whichbuffer\konus\app\src\main\AndroidManifest.xml:12:13-56
+20            android:screenOrientation="landscape" >
+20-->C:\Users\whichbuffer\konus\app\src\main\AndroidManifest.xml:13:13-50
+21            <intent-filter>
+21-->C:\Users\whichbuffer\konus\app\src\main\AndroidManifest.xml:14:13-18:29
+22                <action android:name="android.intent.action.MAIN" />
+22-->C:\Users\whichbuffer\konus\app\src\main\AndroidManifest.xml:15:17-69
+22-->C:\Users\whichbuffer\konus\app\src\main\AndroidManifest.xml:15:25-66
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->C:\Users\whichbuffer\konus\app\src\main\AndroidManifest.xml:17:17-77
+24-->C:\Users\whichbuffer\konus\app\src\main\AndroidManifest.xml:17:27-74
+25            </intent-filter>
+26        </activity>
+27        <activity
+27-->C:\Users\whichbuffer\konus\app\src\main\AndroidManifest.xml:20:9-22:53
+28            android:name="arda.lab.CBFA.MainActivity"
+28-->C:\Users\whichbuffer\konus\app\src\main\AndroidManifest.xml:21:13-54
+29            android:screenOrientation="landscape" />
+29-->C:\Users\whichbuffer\konus\app\src\main\AndroidManifest.xml:22:13-50
+30
+31        <provider
+31-->[com.squareup.picasso:picasso:2.71828] C:\Users\whichbuffer\.gradle\caches\transforms-2\files-2.1\21dfc30a9cba77ccf33b28637af07ae8\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+32            android:name="com.squareup.picasso.PicassoProvider"
+32-->[com.squareup.picasso:picasso:2.71828] C:\Users\whichbuffer\.gradle\caches\transforms-2\files-2.1\21dfc30a9cba77ccf33b28637af07ae8\picasso-2.71828\AndroidManifest.xml:9:13-64
+33            android:authorities="arda.lab.CBFA.com.squareup.picasso"
+33-->[com.squareup.picasso:picasso:2.71828] C:\Users\whichbuffer\.gradle\caches\transforms-2\files-2.1\21dfc30a9cba77ccf33b28637af07ae8\picasso-2.71828\AndroidManifest.xml:10:13-72
+34            android:exported="false" />
+34-->[com.squareup.picasso:picasso:2.71828] C:\Users\whichbuffer\.gradle\caches\transforms-2\files-2.1\21dfc30a9cba77ccf33b28637af07ae8\picasso-2.71828\AndroidManifest.xml:11:13-37
+35    </application>
+36
+37</manifest>
